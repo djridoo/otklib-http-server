@@ -20,3 +20,5 @@ export * from './server/http-plugin'
 export * from './server/http-request'
 export * from './server/http-server'
 export * from './server/http-server-factory'
+
+export * from './http.controller'
